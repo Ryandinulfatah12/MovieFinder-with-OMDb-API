@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Quicksand', Arial;
+}
+
+figcaption {
+	margin-top: -8px;
+	padding: 10px;
+}
+
+app-bar {
+	display: block;
+	background-color: #0275d8;
+	padding: 3px;
+	color: white;
+	font-weight: bold;
+	padding-left: 16px;
+	width: 100%;
+}
